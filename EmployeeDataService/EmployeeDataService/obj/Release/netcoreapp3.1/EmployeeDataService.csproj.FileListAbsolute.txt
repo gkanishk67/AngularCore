@@ -1,0 +1,13 @@
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\bin\Release\netcoreapp3.1\EmployeeDataService.deps.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\bin\Release\netcoreapp3.1\EmployeeDataService.runtimeconfig.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\bin\Release\netcoreapp3.1\EmployeeDataService.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\bin\Release\netcoreapp3.1\EmployeeDataService.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\bin\Release\netcoreapp3.1\EmployeeDataService.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.csproj.AssemblyReference.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeDataService\EmployeeDataService\obj\Release\netcoreapp3.1\EmployeeDataService.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\unthinkable-lap-0202\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\unthinkable-lap-0202\\.nuget\\packages"
+    ]
+  }
+}
