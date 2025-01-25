@@ -1,0 +1,68 @@
+<!-- <div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-4"></div>
+        <div class="col-lg-4">
+            <form [formGroup]="registerForm" (ngSubmit)="register()">
+                <div class="form-group">
+                  <label for="exampleInputEmail1">Username</label>
+                  <input type="text" class="form-control" formControlName="username">
+                </div>
+                <div *ngIf="username?.touched && username?.errors?.['required']" class="alert alert-danger">
+                  This field is required!
+              </div>
+                <div class="form-group">
+                    <label for="exampleInputEmail2">Email</label>
+                    <input type="text" class="form-control" formControlName="email">
+                  </div>
+                  <div *ngIf="email?.touched && email?.errors?.['required']" class="alert alert-danger">
+                    This field is required!
+                </div>
+                <div class="form-group">
+                  <label for="exampleInputPassword1">Password</label>
+                  <input type="password" class="form-control" id="exampleInputPassword1" formControlName="password"  placeholder="Password">
+                </div>
+                <div *ngIf="password?.touched && password?.errors?.['required']" class="alert alert-danger">
+                  This field is required!
+              </div>
+                <button type="submit" class="btn btn-primary">Register</button>
+              </form>
+        </div>
+        <div class="col-lg-4"></div>
+    </div>
+</div>
+ -->
+
+ <div class="container-fluid d-flex justify-content-center align-items-center vh-100 bg-light">
+  <div class="card rounded-4 border-0" style="width: 30%; height: auto; background-color: #87abd9;">
+    <div class="card-body">
+      <h5 class="card-title text-center mb-4">Register</h5>
+      <ul *ngIf="validationErrors.length > 0" class="validation-summary alert alert-danger">
+        There were some errors in your submission
+        <li *ngFor="let error of validationErrors">{{ error }}</li>
+      </ul>
+      <form [formGroup]="registerForm" (ngSubmit)="register()">
+        <div class="form-group">
+          <label for="username">Username</label>
+          <input type="text" class="form-control rounded-0" id="username" formControlName="username" placeholder="Enter your username">
+          <div *ngIf="username?.touched && username?.errors?.['required']" class="invalid-feedback d-block">This field is required!</div>
+        </div>
+        <div class="form-group">
+          <label for="email">Email</label>
+          <input type="email" class="form-control rounded-0" id="email" formControlName="email" placeholder="Enter your email">
+          <div *ngIf="email?.touched && email?.errors?.['required']" class="invalid-feedback d-block">This field is required!</div>
+        </div>
+        <div class="form-group">
+          <label for="password">Password</label>
+          <input type="password" class="form-control rounded-0" id="password" formControlName="password" placeholder="Enter your password">
+          <div *ngIf="password?.touched && password?.errors?.['required']" class="invalid-feedback d-block">This field is required!</div>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block mt-4 rounded-2">Register</button>
+        <button type="button" class="btn btn-link mt-4" routerLink="/login">Back to login page</button>
+        <ngx-spinner>
+          <img src='https://i.gifer.com/ZKZg.gif' />
+        </ngx-spinner>
+
+      </form>
+    </div>
+  </div>
+</div>

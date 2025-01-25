@@ -1,0 +1,153 @@
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\appsettings.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.StaticWebAssets.xml
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.exe
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.deps.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.runtimeconfig.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\ref\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.csproj.AssemblyReference.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\scopedcss\bundle\EmployeeAngular.Server.styles.css
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\EmployeeAngular.Server.StaticWebAssets.Manifest.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\EmployeeAngular.Server.StaticWebAssets.xml
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.RazorTargetAssemblyInfo.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.csproj.CopyComplete
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\ref\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.pdb
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.genruntimeconfig.cache
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeDataService.dll
+C:\Users\unthinkable-lap-0202\source\repos\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeDataService.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\appsettings.json
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.StaticWebAssets.xml
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.exe
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.deps.json
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.runtimeconfig.json
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.runtimeconfig.dev.json
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeAngular.Server.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Humanizer.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeDataService.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\bin\Debug\net5.0\EmployeeDataService.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.csproj.AssemblyReference.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.AssemblyInfoInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.AssemblyInfo.cs
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.csproj.CoreCompileInputs.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\EmployeeAngular.Server.StaticWebAssets.Manifest.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\EmployeeAngular.Server.StaticWebAssets.xml
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\scopedcss\bundle\EmployeeAngular.Server.styles.css
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.RazorTargetAssemblyInfo.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\ref\EmployeeAngular.Server.dll
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.pdb
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\EmployeeAngular.Server.genruntimeconfig.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\EmployeeAngular.Server.StaticWebAssets.Pack.cache
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\msbuild.EmployeeAngular.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\msbuild.build.EmployeeAngular.Server.props
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeAngular.Server.props
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EmployeeAngular.Server.props
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\Employee.13E2E91B.Up2Date
+C:\Users\unthinkable-lap-0202\source\repos\Angular + .NET Core\EmployeeAngular.Server\EmployeeAngular.Server\obj\Debug\net5.0\refint\EmployeeAngular.Server.dll

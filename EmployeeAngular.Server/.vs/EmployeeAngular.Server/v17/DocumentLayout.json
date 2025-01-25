@@ -1,0 +1,475 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\controllers\\identitycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\controllers\\identitycontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\controllers\\apiconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\controllers\\apiconroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\employeeangular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\employeeangular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}|..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\employeedataservice\\employeedataservice\\employeedataservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\AngCore\\AngularCore\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\IndexPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Controllers\\DefaultController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_LayoutPage1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\models\\identity\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\models\\identity\\loginrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\infrastrcture\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\infrastrcture\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE\\EmployeeMVC-CORE\\Views\\Default\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\models\\identity\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\models\\identity\\registerrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\angular \u002B .net core\\employeeangular.server\\employeeangular.server\\employeeangular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{3C974975-137D-46D2-9D7A-04625561E466}|EmployeeAngular.Server\\EmployeeAngular.Server.csproj|solutionrelative:employeeangular.server\\employeeangular.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}|..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\employeedataservice\\employeedataservice\\models\\employeemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}|..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\employeedataservice\\employeedataservice\\manager\\employee\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}|..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj|c:\\users\\unthinkable-lap-0202\\source\\repos\\employeedataservice\\employeedataservice\\data\\employeesappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeAngular.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "RelativeToolTip": "EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T10:39:16.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmployeeModels.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Models\\EmployeeModels.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeDataService\\EmployeeDataService\\Models\\EmployeeModels.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Models\\EmployeeModels.cs",
+              "RelativeToolTip": "..\\..\\EmployeeDataService\\EmployeeDataService\\Models\\EmployeeModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:39:16.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiConroller.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\ApiConroller.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Controllers\\ApiConroller.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\ApiConroller.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Controllers\\ApiConroller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IndexPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\IndexPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\IndexPartial.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\IndexPartial.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\IndexPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-04-22T11:04:42.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Startup.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Startup.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Startup.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IdentityContoller.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\IdentityContoller.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Controllers\\IdentityContoller.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Controllers\\IdentityContoller.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Controllers\\IdentityContoller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Manager\\Employee\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeDataService\\EmployeeDataService\\Manager\\Employee\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Manager\\Employee\\EmployeeManager.cs",
+              "RelativeToolTip": "..\\..\\EmployeeDataService\\EmployeeDataService\\Manager\\Employee\\EmployeeManager.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAEwGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:39:16.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeDataService",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj",
+              "RelativeToolTip": "..\\..\\EmployeeDataService\\EmployeeDataService\\EmployeeDataService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-25T10:39:34.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Default\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-04-22T11:03:25.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\User.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\AngCore\\AngularCore\\angular.json",
+              "RelativeDocumentMoniker": "..\\AngCore\\AngularCore\\angular.json",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\AngCore\\AngularCore\\angular.json",
+              "RelativeToolTip": "..\\AngCore\\AngularCore\\angular.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-07-09T10:39:16.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\appsettings.json",
+              "RelativeToolTip": "EmployeeAngular.Server\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-07-09T10:39:16.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-04-29T12:02:02.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\AppSettings.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\AppSettings.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "..\\..\\EmployeeMVC-CORE - Web\\EmployeeMVC-CORE\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-02-26T11:57:10.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-04-02T11:24:33.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LayoutPage1.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeApplication\\EmployeeMVC\\Views\\Shared\\_LayoutPage1.cshtml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAswIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-04-02T11:24:49.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmployeesAppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Data\\EmployeesAppDBContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeDataService\\EmployeeDataService\\Data\\EmployeesAppDBContext.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeDataService\\EmployeeDataService\\Data\\EmployeesAppDBContext.cs",
+              "RelativeToolTip": "..\\..\\EmployeeDataService\\EmployeeDataService\\Data\\EmployeesAppDBContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T10:39:16.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\Identity\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Models\\Identity\\LoginRequestModel.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\Identity\\LoginRequestModel.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Models\\Identity\\LoginRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Infrastrcture\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Infrastrcture\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Infrastrcture\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Infrastrcture\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE\\EmployeeMVC-CORE\\Views\\Default\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\EmployeeMVC-CORE\\EmployeeMVC-CORE\\Views\\Default\\Create.cshtml",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\EmployeeMVC-CORE\\EmployeeMVC-CORE\\Views\\Default\\Create.cshtml",
+              "RelativeToolTip": "..\\..\\EmployeeMVC-CORE\\EmployeeMVC-CORE\\Views\\Default\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-02-26T10:27:44.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\Identity\\RegisterRequestModel.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Models\\Identity\\RegisterRequestModel.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Models\\Identity\\RegisterRequestModel.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Models\\Identity\\RegisterRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\Program.cs",
+              "RelativeToolTip": "EmployeeAngular.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-09T10:39:16.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeAngular.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "RelativeDocumentMoniker": "EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "ToolTip": "C:\\Users\\unthinkable-lap-0202\\source\\repos\\Angular \u002B .NET Core\\EmployeeAngular.Server\\EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "RelativeToolTip": "EmployeeAngular.Server\\EmployeeAngular.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-07-09T10:39:16.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

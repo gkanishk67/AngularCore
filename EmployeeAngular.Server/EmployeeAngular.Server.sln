@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeAngular.Server", "EmployeeAngular.Server\EmployeeAngular.Server.csproj", "{3C974975-137D-46D2-9D7A-04625561E466}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeDataService", "..\..\EmployeeDataService\EmployeeDataService\EmployeeDataService.csproj", "{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C974975-137D-46D2-9D7A-04625561E466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C974975-137D-46D2-9D7A-04625561E466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C974975-137D-46D2-9D7A-04625561E466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C974975-137D-46D2-9D7A-04625561E466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C65108B6-3153-4EDF-BAB8-FCA3FC286FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D39057F1-4C7E-4133-946F-785F4BDA4D0B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,180 @@
+<div class="alert alert-success" role="alert" *ngIf="showDeleteMessage">
+    Employee deleted successfully.
+  </div>
+  
+  <app-notification [message]="message ?? ''"></app-notification>
+  <div class="row">
+    <div class="col-sm-2 mt-3">
+        <input class="form-control" placeholder="Search keyword" type="text" name="keyword" [(ngModel)]="FirstName" (ngModelChange)="Search()" />
+       
+    </div>
+    <button type="button" class="btn btn-outline-secondary rounded-2 col-sm-1 mt-3 offset-9 bg-primary text-white" routerLink="/EmployeeDetail">Add</button>
+    
+  </div>
+
+
+<div id="lvWrapper" class="mb-3">
+
+    <div class="row bg-secondary text-white  text-uppercase text-center p-2 mt-3 hdrList">
+
+        <div class="col-lg-1 col-md-1 col-sm-1" runat="server"></div>
+        <div class="col-lg-1 col-md-1 col-sm-1" runat="server">
+            
+                <a href="javascript:void(0)" (click)="sort('FirstName')" id="lbName" >Name </a>
+                
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'FirstName' && !reverse, 'fa-sort-down': key === 'FirstName' && reverse}"></i>
+
+        </div>
+        <div class="col-lg-3 col-md-3 col-sm-3" runat="server">
+           
+                <a href="javascript:void(0)" (click)="sort('Email')" id="lbEmail" class="">Email </a>
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'Email' && !reverse, 'fa-sort-down': key === 'Email' && reverse}"></i>
+              
+        </div>
+        <div class="col-lg-2 col-md-2 col-sm-2" runat="server">
+           
+                <a href="javascript:void(0)" (click)="sort('DOB')"  id="lbDOB" class="">DOB </a>
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'DOB' && !reverse, 'fa-sort-down': key === 'DOB' && reverse}"></i>
+             
+        </div>
+
+        <div class="col-lg-1 col-md-1 col-sm-1 p-0" runat="server">
+            
+                <a href="javascript:void(0)" (click)="sort('Contact')"  id="lbContact" class="">Contact </a>
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'Contact' && !reverse, 'fa-sort-down': key === 'Contact' && reverse}"></i>
+               
+        </div>
+        <div class="col-lg-2 p-0 col-md-2 col-sm-2" runat="server">
+           
+                <a href="javascript:void(0)" (click)="sort('Gender')"  id="lbGender" class="">Gender </a>
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'Gender' && !reverse, 'fa-sort-down': key === 'Gender' && reverse}"></i>
+               
+        </div>
+        <div class="col-lg-2 p-0 col-md-2 col-sm-2" runat="server">
+          
+                <a href="javascript:void(0)" (click)="sort('Program')"  id="lbProgram" class="">Program </a>
+                <i class="fa" [ngClass]="{'fa-sort-up': key === 'Program' && !reverse, 'fa-sort-down': key === 'Program' && reverse}"></i>
+            
+        </div>
+
+    </div>
+    <!-- @ngIf (employees.Count == 0)
+    { -->
+        <div class="row my-2 border border-dark text-center" *ngIf="employees.length == 0">
+
+            <h2 class="text-danger">No data available at the moment</h2>
+
+        </div>
+    <!-- } -->
+
+    <!-- @foreach (var emp in Model)
+    { -->
+        <div id="EmpRow" class="row alternative_cls my-2 border border-dark  text-center" *ngFor="let emp of employees | orderBy: key: reverse | paginate: {itemsPerPage:5,currentPage:p}; ">
+            <!-- @if (!User.IsInRole("Customer"))
+            { -->
+                <div class="col-lg-1 col-md-1 col-sm-1">
+
+
+                    <div class="dropdown">
+                        <button class="btn btn-sm bg-success text-white dropdown-toggle" type="button" id="ddAction" data-bs-toggle="dropdown" aria-expanded="false">
+                            Action
+                        </button>
+                        <ul class="dropdown-menu p-0 b=0 bg-transparent border-0" aria-labelledby="dropdownMenuButton1">
+                            <li>
+
+                                <a routerLink="/EmployeeDetail/{{emp.Id}}" name="Edit" id="btnEdit" class="w-75 w3-bar-item bg-primary btn btn-sm text-white">Edit</a>
+                            </li>
+                            <!-- @if (!User.IsInRole("Manager"))
+                            { -->
+                                <li>
+                                    <a (click)="deleteEmployee(emp.Id)"  name="Delete" id="btnDelete" class="w-75 w3-bar-item bg-danger btn btn-sm text-white">Delete</a>
+
+                                </li>
+                            <!-- } -->
+
+
+                        </ul>
+                    </div>
+                    
+                </div>
+            
+
+            <div class="col-lg-1 pt-1 col-md-1 col-sm-1">
+                <label>{{ emp.FirstName }}</label>
+            </div>
+            <div class="col-lg-3 pt-1 col-md-3 col-sm-3">
+                <label>{{emp.Email}}</label>
+            </div>
+            <div class="col-lg-2 pt-1 col-md-2 col-sm-2">
+                <label>{{emp.DOB}}</label>
+            </div>
+
+            <div class="col-lg-1 pt-1 col-md-1 col-sm-1">
+                <label>{{emp.Contact}}</label>
+            </div>
+            <div class="col-lg-2 pt-1 col-md-2 col-sm-2">
+                <label>{{emp.Gender}}</label>
+            </div>
+            <div class="col-lg-2 px-0 pt-1 col-md-2 col-sm-2">
+                <label>{{emp.Program}}</label>
+            </div>
+
+
+
+        </div>
+
+        <pagination-controls (pageChange)="p = $event"></pagination-controls>
+    <!-- } -->
+
+
+    <!-- @if (ViewBag.Records > Model.Count)
+    {
+        <div class="row">
+            @{
+                int PrevPageNo = ViewBag.PageNo - 1;
+                if (PrevPageNo <= 0)
+                {
+                    PrevPageNo = 1;
+                    @Html.Hidden("PrevPageNo", PrevPageNo, new { id = "nxt" })
+                }
+
+                int NextPageNo = ViewBag.PageNo + 1;
+                if (NextPageNo > ViewBag.NoOfPages)
+                {
+                    NextPageNo = ViewBag.NoOfPages;
+                    @Html.Hidden("NextPageNo", NextPageNo, new { id = "pre" });
+                }
+            }
+            <ul class="pagination justify-content-left">
+                <li class="page-item">
+                    <a id="prevPage" class="page-link" href="#" onclick="sortClick('@ViewBag.SortColumn','@ViewBag.IconClass','@PrevPageNo')">Prev</a> @**@
+                </li>
+                @for (int i = 0; i < ViewBag.NoOfPages; i++)
+                {
+                    if ((i + 1) == ViewBag.PageNo)
+                    {
+                        <li class="page-item active">
+                            <a class="page-link" href="#" onclick="sortClick('@ViewBag.SortColumn','@ViewBag.IconClass','@(i + 1)')">@( i + 1)</a>
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="page-item">
+                            <a class="page-link" href="#" onclick="sortClick('@ViewBag.SortColumn','@ViewBag.IconClass','@(i + 1)')">@( i + 1)</a>
+                        </li>
+                    }
+                }
+                <li class="page-item">
+                    <a id="nxtPage" class="page-link" href="#" onclick="sortClick('@ViewBag.SortColumn','@ViewBag.IconClass','@NextPageNo')">Next</a> @*/Default/index?SortColumn=@ViewBag.SortColumn&IconClass=@ViewBag.IconClass&PageNo=@NextPageNo*@
+                </li>
+            </ul>
+        </div>
+    }
+    else
+    {
+
+    } -->
+
+
+
+</div>

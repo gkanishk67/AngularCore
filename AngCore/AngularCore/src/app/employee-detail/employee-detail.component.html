@@ -1,0 +1,142 @@
+
+<section id="main-content" class="pt-5 pb-5" style="background-color: darkgrey;">
+  <div class="alert alert-danger  col-lg-3 offset-9 text-lg-center" *ngIf="showNotFound" role="alert" >
+    Employee not found!.
+  </div>  
+  <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+            <div class="card-header">
+              <h1 class="text-center">Employee Registration</h1>
+            </div>
+            <div class="card-body">
+              <form [formGroup]="detailForm" (ngSubmit)="(id != '0' && !showNotFound) ? editEmployee() : add()">
+                <div class="col-lg-3 mb-2">
+                  <input type="hidden" class="form-control" formControlName="Id" >
+                </div>
+                <!-- Validation Summary  -->
+                <ul *ngIf="validationErrors.length > 0" class="validation-summary alert alert-danger">
+                    There were some errors in your submission
+                  <li *ngFor="let error of validationErrors">{{ error }}</li>
+                </ul>
+                <div class="form-group row">
+                  <!-- Employee Name -->
+                  <label for="FirstName" id="lblEmpName" class="col-lg-3 col-form-label"><b>Employee Name :</b><span style="color:red">*</span></label>
+                  <div class="col-lg-3 mb-2">
+                    <input type="text" class="form-control" formControlName="FirstName" placeholder="First Name">
+                  </div>
+                  <div class="col-lg-3 mb-2">
+                    <input type="text" class="form-control" formControlName="MiddleName" placeholder="Middle Name">
+                  </div>
+                  <div class="col-lg-3 mb-2">
+                    <input type="text" class="form-control" formControlName="LastName" placeholder="Last Name">
+                  </div>
+                </div>
+                <!-- Employee Father Name -->
+                <div class="form-group row">
+                  <label for="txtFather" id="lblFather" class="col-lg-3 col-form-label"><b>Father Name :</b><span style="color:red">*</span></label>
+                  <div class="col-lg-9 mb-2">
+                    <input type="text" class="form-control" formControlName="Father" placeholder="Father Name">
+                  </div>
+                </div>
+                <!-- Employee Email -->
+                <div class="form-group row">
+                  <label for="txtEmail" id="lblEmail" class="col-lg-3 col-form-label"><b>Email :</b><span style="color:red">*</span></label>
+                  <div class="col-lg-9 mb-2">
+                    <input type="text" class="form-control" formControlName="Email" placeholder="Email Address">
+                  </div>
+                </div>
+                <!-- Date of birth -->
+                <div class="form-group row">
+                  <label for="txtdob" id="lbldob" class="col-lg-3 col-form-label"><b>DOB :</b><span style="color:red">*</span></label>
+                  <div class="col-lg-9 mb-2">
+                    <input type="date" class="form-control" formControlName="DOB" placeholder="Date of birth">
+                  </div>
+                </div>
+                <div class="form-group row">
+                  <!-- Program -->
+                  <label for="txtProgram" id="lblProgram" class="col-lg-3 col-form-label"><b>Program :</b><span style="color:red">*</span></label>
+                  <div class="col-lg-9 mb-2">
+                    <input type="text" class="form-control" formControlName="Program" placeholder="Program">
+                  </div>
+                </div>
+
+
+                
+                <div class="form-group row">
+                    <!-- Region -->
+                    <label for="ddlRegion" id="lblRegion" class="col-lg-3 col-form-label"><b>Region :</b><span style="color:red">*</span></label>
+
+                    <div class="col-lg-6 mb-2">
+                        <input type="text" class="form-control" formControlName="Region" placeholder="Region">
+                        <!-- @Html.DropDownListFor(m => m.Emp.Region, new SelectList(Enum.GetValues(typeof(EmployeeDataService.Models.Region))), "Select Region", new { @class = "form-control input-sm w-auto", id = "ddlRegion" }) -->
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <!-- Address -->
+                    <label for="txtAddress" id="lblAddress" class="col-lg-3 col-form-label"><b>Address :</b><span style="color:red">*</span></label>
+
+                    <div class="col-lg-6 mb-2">
+                        <input type="text" class="form-control" formControlName="Address" placeholder="Address">
+                        <!-- @Html.TextBoxFor(m => m.Emp.Address, new { @class = "form-control input-sm", id = "txtAddress", maxlength = "20", placeholder = "Address line 1" }) -->
+                    </div>
+                   
+                    
+                </div>
+        
+
+                
+                <div class="form-group row">
+                    <!-- Contact Details -->
+                    <label for="txtCell" id="lblCell" class="col-lg-3 col-form-label"><b>Cell No :</b><span style="color:red">*</span></label>
+
+                    <div class="col-lg-6 mb-2">
+                        <input type="text" class="form-control" formControlName="Contact" placeholder="Contact">
+                        <!-- @Html.TextBoxFor(m => m.Emp.Contact, new { @class = "form-control input-sm", id = "txtCell", maxlength = "20", type = "number", placeholder = "Contact" }) -->
+                    </div>
+                </div>
+
+                <div class="form-group row">
+                    <!-- Gender -->
+                    <label for="txtGender" id="lblGender" class="col-lg-3 col-form-label"><b>Gender :</b><span style="color:red">*</span></label>
+
+                    <div class="col-lg-6 mb-2">
+                        <input type="text" class="form-control" formControlName="Gender" placeholder="Gender">
+                        <!-- <table id="rbGender" class="form-group col-lg-6 ">
+                            <tbody>
+                                <tr>
+                                    <td>@Html.RadioButtonFor(m => m.Emp.Gender, "Male")<label for="Gender">Male</label></td>
+                                    <td>@Html.RadioButtonFor(m => m.Emp.Gender, "Female")<label for="Gender">Female</label></td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                            </tbody>
+                        </table> -->
+                    </div>
+                </div>
+                   
+                  
+                    <hr>
+                        <div class="form-group">
+                            <!-- Buttons -->
+                            <input type="submit"  name="btnsave" [value]="(id != '0' && !showNotFound) ? 'Update' : 'Add'" id="btnsave" class="btn btn-primary btn-lg" style="width:130px;">
+                            <!-- <a href="/Default/Index" id="lnkCancel" usesubmitbehavior="false">Cancel</a> -->
+
+                        </div>
+
+                
+
+
+
+
+
+
+                </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
